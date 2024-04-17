@@ -1,0 +1,24 @@
+h1 {
+    color: #333; /*cor do texto*/
+    font-family: Arial, sang-serif; /*Fonte do texto*/
+}
+   
+p {
+    font-size: 16px; /* tamanho da fonte*/
+    line-height: 1.4; /*espaçamento entre linhas*/
+}
+
+img {
+    max-width: 100%; /* largura máxima da imagem*/
+    height: auto; /*altura automática opcional*/
+    margin: 20px 0; /*margem superior e inferior*/
+}
+
+a {
+    color: #0070cc; /*cor do link*/
+    text-decoration: none; /*remover sublinhado padrão*/
+}
+
+a:hover {
+    text-decoration: underline; /*sublinhado ao passar o mouse*/
+}
